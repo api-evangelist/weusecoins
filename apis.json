@@ -1,0 +1,60 @@
+{
+    "name": "WeUseCoins",
+    "description": "What is Bitcoin? The first decentralized digital currency and so much more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1248-weusecoins.jpg",
+    "tags": [
+        "blockchain",
+        "financial",
+        "have api",
+        "marketplaces",
+        "transfers",
+        "virtual currency"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/weusecoins\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WeUseCoins",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1248-weusecoins.jpg",
+            "humanURL": "https:\/\/www.bitinstant.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/weusecoins-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bitinstant.com\/api"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.bitinstant.com\/blog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bitinstant"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Bitinstant"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bitinstant"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/WeUseCoins"
+        }
+    ]
+}
